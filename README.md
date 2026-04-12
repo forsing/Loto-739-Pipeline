@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lotto Generator
 
 ** Author’s Note **
@@ -363,3 +364,6 @@ Following testing, I will plan on building a comprehensive logging system that c
 Finally, I plan to integrate automation that leverages a self-editing model. This model will dynamically adapt the pipeline by analyzing logs and test results, enabling continuous improvement and fine-tuning of prediction accuracy and processing efficiency without manual intervention. Essentially, a algorithm that evolves its own code based on performance. The theory is that as it evolves and changes, it will have improving performance that will eventually reach pin-point accurate prediction capabilities.
 
 ---
+=======
+
+>>>>>>> cac8aa72beed5a7dd5e0b2463ce0661ec106312f
