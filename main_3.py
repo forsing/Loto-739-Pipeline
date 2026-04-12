@@ -484,3 +484,12 @@ Teška interpretabilnost: mnogo heterogenih signala (decay, Bayes, k-means, MC, 
 safe_run: korak može „proći“ sa [OK] dok unutrašnji deo zapravo loguje grešku (u isečku na dnu fajla: Powerball clustering failed — n_samples vs n_clusters); znači tišina o delimičnom neuspehu ako step funkcija to proguta.
 Zavisnost od redosleda: ako raniji korak ostavi pipeline u lošem stanju, kasniji može dati smisao bez eksplicitnog fail-fast-a.
 """
+
+
+
+
+
+"""
+Loto-739-Pipeline
+Frequency Analysis. Decay Factors Calculation. Bayesian Fusion with Mechanics. Clustering and Correlation. Monte Carlo Simulations. Sequential / Temporal Features. First-Order Markov Chain. Shannon Entropy Features. Quantum Encoder Training. Quantum Features & Kernel. Deep Learning Fusion Model.
+"""
