@@ -8,7 +8,7 @@
 
 
 """
-cd /Users/4c/Desktop/GHQ/kurzor/LottoPipeline-main
+cd /
 python3 main_3.py
 """
 
@@ -388,7 +388,7 @@ Epoch 4596/4596
 2026-04-12 20:44:25,452 - INFO - Successfully saved 1 ticket line(s) to 'current_ticket.json'.
 
 --- NEXT Combination ---
-Line 1: [8, 11, 14, 16, 19, 21, 27]
+Line 1: [8, 11, x, y, z, 21, 27]
 
 
 
@@ -434,14 +434,9 @@ Number | Occurrences | % of main picks
 37     |        856   |   2.66%
 38     |        832   |   2.59%
 39     |        844   |   2.62%
-
-
-
-
-
-rez
-Line 1: [3, 12, 15, 21, 24, 27, 32]
 """
+
+
 
 
 
@@ -483,13 +478,4 @@ Slabe / rizične strane
 Teška interpretabilnost: mnogo heterogenih signala (decay, Bayes, k-means, MC, Markov, entropija, DL, kvantni sloj u drugim modulima) — korisniku je teško da zna šta je pomerilo brojeve; rizik „crne kutije“ uz osećaj preciznosti.
 safe_run: korak može „proći“ sa [OK] dok unutrašnji deo zapravo loguje grešku (u isečku na dnu fajla: Powerball clustering failed — n_samples vs n_clusters); znači tišina o delimičnom neuspehu ako step funkcija to proguta.
 Zavisnost od redosleda: ako raniji korak ostavi pipeline u lošem stanju, kasniji može dati smisao bez eksplicitnog fail-fast-a.
-"""
-
-
-
-
-
-"""
-Loto-739-Pipeline
-Frequency Analysis. Decay Factors Calculation. Bayesian Fusion with Mechanics. Clustering and Correlation. Monte Carlo Simulations. Sequential / Temporal Features. First-Order Markov Chain. Shannon Entropy Features. Quantum Encoder Training. Quantum Features & Kernel. Deep Learning Fusion Model.
 """
