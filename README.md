@@ -1,3 +1,11 @@
+Inspiracija/Nadogradnja - Inspiration/Upgrade
+https://github.com/Callam7/LottoPipeline
+
+
+python3 main_3.py
+
+
+
 | Paket                       | Verzija |
 | --------------------------- | ------- |
 | **python**                  | 3.11.13 |
