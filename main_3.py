@@ -2,7 +2,7 @@
 
 
 
-# Inspiration - Inspiracija
+# Inspiracija/Nadogradnja - Inspiration/Upgrade
 ## https://github.com/Callam7/LottoPipeline
 
 
