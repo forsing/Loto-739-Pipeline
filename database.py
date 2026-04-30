@@ -16,7 +16,7 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 DB_FILENAME = str(DATA_DIR / "lotto.db")  # Absolute DB path in project/data
-CSV_PATH = Path("/Users/4c/Desktop/GHQ/data/loto7hh_4596_k29.csv")
+CSV_PATH = Path("/data/loto7hh_4596_k29.csv")
 
 
 def get_connection():
